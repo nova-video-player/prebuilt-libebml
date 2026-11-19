@@ -1,0 +1,7 @@
+Nova libebml Android builder
+Nova build scripts and JNI adapter: Copyright 2026 Courville Software, Apache-2.0.
+libebml 1.4.5: Copyright the Matroska project contributors, LGPL-2.1-or-later.
+Upstream: https://github.com/Matroska-Org/libebml
+Source: https://dl.matroska.org/downloads/libebml/libebml-1.4.5.tar.xz
+Source SHA-256: 4971640b0592da29c2d426f303e137a9b0b3d07e1b81d069c1e56a2f49ab221b
+The Apache license does not replace the upstream library license.
